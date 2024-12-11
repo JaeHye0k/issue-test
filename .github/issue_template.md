@@ -1,7 +1,6 @@
-## 변경내역
+<!-- 테스트용 issue template 입니다  -->
+## test1
 
-## ToDo
-- [ ] test1
-- [ ] test2
+## test2
 
-## 설명
+## test3
