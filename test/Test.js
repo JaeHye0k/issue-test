@@ -1,2 +1,2 @@
 "core.ignorecase = flase";
-"test/test.js";
+"test/Test.js";
