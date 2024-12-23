@@ -1,1 +1,1 @@
-"core.ignorecase = true, test/test.js -> Test/test.js";
+"core.ignorecase = true, Test/test.js -> test/test.js";
